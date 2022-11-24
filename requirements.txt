@@ -1,0 +1,8 @@
+scikit-fuzzy
+numpy
+matplotlib
+scipy
+joblib
+tkinter
+sklearn
+pandas
